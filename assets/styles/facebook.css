@@ -1,0 +1,30 @@
+/* BODY */
+body {
+  background-color: #424242 !important;
+}
+/* LEFT NAVBAR */
+/* OPTIONS */
+._bui ._5afe {
+  color: #e0e0e0 !important;
+}
+/* SECTIONS TITLES */
+._55y4 .sectionDragHandle {
+  color: #bdbdbd !important;
+}
+
+/* SELECT */
+._3m75 .sideNavItem ._5afe::after {
+  background-color: #616161 !important;
+  border: none !important;
+}
+
+/* POSTS */
+._5vb_, ._5vb_ #contentCol {
+  background-color: #424242 !important;
+  color: #e0e0e0 !important;
+}
+
+._4-u8 {
+  background-color: #616161 !important;
+  border: none !important;
+}
