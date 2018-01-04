@@ -2,6 +2,11 @@
 body {
   background-color: #424242 !important;
 }
+
+a {
+  color: #e0e0e0 !important;
+}
+
 /* LEFT NAVBAR */
 /* OPTIONS */
 ._bui ._5afe {
@@ -18,6 +23,28 @@ body {
   border: none !important;
 }
 
+/* RIGHT NAVBAR */
+.fbChatSidebar {
+  background-color: #616161 !important;
+  border: none !important;
+}
+
+.clearfix>._ohe.lfloat{
+  color: #e0e0e0 !important;
+}
+
+._55oc {
+  color: #e0e0e0 !important;
+}
+
+._55ls {
+  color: #e0e0e0 !important;
+}
+
+._568- {
+  color: #e0e0e0 !important;
+}
+
 /* POSTS */
 ._5vb_, ._5vb_ #contentCol {
   background-color: #424242 !important;
@@ -27,4 +54,25 @@ body {
 ._4-u8 {
   background-color: #616161 !important;
   border: none !important;
+}
+
+._2yq._2ltu ._4-u2:before {
+  border: none !important;
+}
+
+._5vsj._5vsj._5vsj {
+  background-color: #616161 !important;
+}
+
+._5vsj .UFIRow {
+  background-color: #616161 !important;
+}
+
+._5vsj ._1g5v+._4arz {
+  background: #616161 !important;
+  color: #e0e0e0 !important;
+}
+
+._41nt {
+  background: #616161 !important;
 }
